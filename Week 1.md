@@ -105,7 +105,7 @@ The `chage` command helps manage user password policies.
 For a more detailed understanding, check out the notes and diagrams attached. The visual representation should make these concepts even easier to grasp!  
 
 📄 **Handwritten Notes**: [Attached in the file](https://github.com/VedantDomadiya/RHCSA_Preparation/blob/main/Linux_Week1_RHCSA_VedantDomadiya.pdf)  
-🖼️ **Illustrations and Diagrams**: [Available in the PDF](https://github.com/VedantDomadiya/RHCSA_Preparation/blob/main/Linux_Week1_RHCSA_VedantDomadiya.pdf)  
+🖼️ **Illustrations and Diagrams**: [Available in the blog](https://medium.com/@VedantDomadiya/week-1-rhcsa-preparation-access-systems-manage-files-and-user-administration-49a146bfdd1f)  
 
 Stay tuned for Week 2, where I’ll explore more advanced topics in system administration! 🚀  
 
