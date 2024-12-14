@@ -126,11 +126,11 @@ Scheduling tasks efficiently saves time and ensures important jobs are not misse
 ## Resources and Notes
 I've attached my handwritten notes below, which include detailed examples, configurations, and command usages I practiced this week.
 
-> 📝 **Handwritten Notes**: [Download Notes Here](#)
+> 📝 **Handwritten Notes**: [Download Notes Here](https://www.linkedin.com/posts/vedantdomadiya_week2-rhcsa-linux-vedantdomaidya-activity-7273670223394676736-uulc?utm_source=share&utm_medium=member_desktop)
 
 For an even deeper dive, check out my blog post with diagrams and additional insights:
 
-[📖 Read the Blog on Medium](#)
+[📖 Read the Blog on Medium](https://medium.com/@VedantDomadiya/week-2-deep-dive-into-rhcsa-preparation-a10517ae42e4)
 
 ---
 
